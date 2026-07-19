@@ -1,4 +1,4 @@
-# Hi there, I'm Yashvardhan Rana 👋
+# Hi there, I'm Yashvardhan 👋
 
 **Aspiring Business Analyst | Data Analyst | Financial Analyst**  
 RMIT University Graduate | Python, SQL, Power BI, Machine Learning

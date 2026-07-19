@@ -52,7 +52,6 @@ RMIT University Graduate | Python, SQL, Power BI, Machine Learning
 ### 📫 Let's Connect
 - **LinkedIn**: [https://www.linkedin.com/in/yashvardhan-rana-415a89212/]
 - **Email**: [yashvardhanrana9@gmail.com]
-- **Portfolio Site**: (Add later)
 
 ---
 
